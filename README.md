@@ -1,5 +1,4 @@
-# #Hi there, I'm Avish 👋 
-
+## Hi there, I'm Avish 👋 
 
 - 💻 I’m currently working as **SDE-2 @ AMD**
 - 🌱 I’m currently learning everything 🤣
@@ -9,9 +8,7 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/linkedin.png)](https://www.linkedin.com/in/avish-porwal-14975b175/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+&nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ImAvi34)&nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/avish-porwal-14975b175/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/avish.porwal/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/avissshhhhh/)
 
 ### Languages and Tools:
 
@@ -23,6 +20,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-232F3E?logo=grpc)
 ![Networking](https://img.shields.io/badge/Networking-F7DF1E?logo=Networking&logoColor=black)
-
-
-[linkedin]: https://www.linkedin.com/in/avish-porwal-14975b175/
