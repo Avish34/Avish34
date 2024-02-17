@@ -22,9 +22,17 @@
 ![Networking](https://img.shields.io/badge/Networking-F7DF1E?logo=Networking&logoColor=black)
 
 
+### Stats:
+I'm bad at maths, so is Github :-)
+
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Avish34&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Avish34&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=vinitshahdeo&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Avish34&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=Avish34&theme=dark&hide_border=true&background=FFFFFF00">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Avish34&show_icons=true&&show=prs_merged,prs_merged_percentage&count_private=true&theme=dark&hide_border=true&hide_rank=true&bg_color=00000000">
+<br>
 </p>
+
+
+
+
+[![Avish StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/18415723)](https://stackoverflow.com/users/18415723/avish)
