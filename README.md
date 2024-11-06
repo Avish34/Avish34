@@ -12,7 +12,7 @@
 
 - 💻 I’m currently building tech at **@AMD**
 - 👯 I’m looking to collaborate on open source/commercial projects
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 💬 Ask me about **Go & Microservices**
 - ⚡ Fun fact: I can code with my eyes close
 
