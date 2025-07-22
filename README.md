@@ -10,7 +10,7 @@
 <br>
 <img src="./img/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-- 💻 I’m currently building tech at **@AMD**
+- 💻 I’m currently building tech at **@Microsoft**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🌱 I’m currently learning everything 
 - 💬 Ask me about **Go & Microservices**
